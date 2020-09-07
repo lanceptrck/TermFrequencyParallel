@@ -1,0 +1,19 @@
+An internet outage meant health officials were unable to trace and isolate the contacts of thousands of people who tested positive for the coronavirus in England until up to a week later, several days beyond the timeframe recommended by UK government advisers.
+
+The performance of the Test and Trace scheme, which has been hailed as “world-beating” by prime minister Boris Johnson, is under scrutiny as the UK government began urging a return to offices and schools reopened.
+
+The three-month-old system has consistently failed to meet targets on reaching close contacts, but New Scientist can reveal it was also recently hit by fresh technical problems that may have exacerbated the spread of the coronavirus.
+
+Between 6 and 12 August, an internet outage in the Southampton area affected the digital infrastructure behind the scheme, according to the UK’s Department of Health and Social Care (DHSC).
+
+The impact was a delay in the transfer of thousands of people who tested positive for coronavirus to the contact-tracing system, by up to week. The exact number hasn’t been disclosed, but New Scientist understands it is in the low thousands. This is likely to be a significant proportion of the people entering the system each week.
+
+“This episode is very worrying. It’s standard contingency planning to have backup systems in place and one wonders what went wrong here,” says Martin McKee at the London School of Hygiene & Tropical Medicine.
+
+While test results weren’t delayed, the hiatus in tracing those cases’ contacts means thousands of other people potentially exposed to the coronavirus weren’t told to self-isolate for up to a week – far exceeding the 48 hours recommended by the government’s advisers, the Scientific Advisory Group for Emergencies (SAGE). Swiftly telling people to isolate is considered essential to break transmission of covid-19 . The median number of contacts for non-complex cases, meaning those outside of settings such as hospitals or care homes, is around two.
+
+A DHSC spokesperson says: “All cases affected were transferred to the system for contact tracing as soon as this issue was resolved.”
+
+Disclosure of a delay in some cases being transferred came in contact-tracing statistics published yesterday, but no reason or figures were given for the number of people affected. McKee says it is “very concerning” that there hasn’t been more transparency about the exact nature of what went wrong.
+
+The figures showed that, for the ninth week in a row, the system fell short of SAGE’s target of reaching 80 per cent of close contacts within 48 to 72 hours. Only 75.5 per cent were reached between 13 and 19 August.

@@ -1,0 +1,39 @@
+A review of COVID-19 studies reveals a troubling connection between two health crises: coronavirus and obesity.
+
+From COVID-19 risk to recovery, the odds are stacked against those with obesity, and a new study led by the University of North Carolina at Chapel Hill raises concerns about the impact of obesity on the effectiveness of a future COVID-19 vaccine.
+
+Researchers examined the available published literature on individuals infected with the virus and found that those with obesity (BMI over 30) were at a greatly increased risk for hospitalization (113%), more likely to be admitted to the intensive care unit (74%), and had a higher risk of death (48%) from the virus.
+
+A team of researchers at UNC-Chapel Hill's Gillings School of Global Public Health, including lead author Barry Popkin, a professor in the Department of Nutrition and member of the Carolina Population Center, collaborated with senior author Meera Shekar, a World Bank health and nutrition specialist, on the paper published in Obesity Reviews.
+
+For the paper, researchers reviewed immunological and biomedical data to provide a detailed layout of the mechanisms and pathways that link obesity with increased risk of COVID-19 as well as an increased likelihood of developing more severe complications from the virus.
+
+Obesity is already associated with numerous underlying risk factors for COVID-19, including hypertension, heart disease type 2 diabetes, and chronic kidney and liver disease.
+
+Metabolic changes caused by obesity - such as insulin resistance and inflammation - make it difficult for individuals with obesity to fight some infections, a trend that can be seen in other infectious diseases, such as influenza and hepatitis.
+
+During times of infection, uncontrolled serum glucose, which is common in individuals with hyperglycemia, can impair immune cell function.
+
+"All of these factors can influence immune cell metabolism, which determines how bodies respond to pathogens, like the SARS-CoV-2 coronavirus.
+
+Individuals with obesity are also more likely to experience physical ailments that make fighting this disease harder, such as sleep apnea, which increases pulmonary hypertension, or a body mass index that increases difficulties in a hospital setting with intubation.
+
+Previous work by Beck and others has demonstrated that the influenza vaccine is less effective in adults with obesity. The same may be true for a future SARS-CoV-2 vaccine, says Beck.
+
+"However, we are not saying that the vaccine will be ineffective in populations with obesity, but rather that obesity should be considered as a modifying factor to be considered for vaccine testing," she says. "Even a less protective vaccine will still offer some level of immunity."
+
+Roughly 40 percent of Americans are obese and the pandemic's resulting lockdown has led to a number of conditions that make it harder for individuals to achieve or sustain a healthy weight.
+
+Working from home, limiting social visits and a reduction in everyday activities - all in an effort to stop the spread of the virus - means we're moving less than ever, says Popkin.
+
+The ability to access healthy foods has also taken a hit. Economic hardships put those who are already food insecure at further risk, making them more vulnerable to conditions that can arise from consuming unhealthy foods.
+
+"We're not only at home more and experience more stress due to the pandemic, but we're also not visiting the grocery store as often, which means the demand for highly processed junk foods and sugary beverages that are less expensive and more shelf-stable has increased," he says.
+
+"These cheap, highly processed foods are high in sugar, sodium and saturated fat and laden with highly refined carbohydrates, which all increase the risk of not only excess weight gain but also key noncommunicable diseases."
+
+Popkin, who is part of the Global Food Research Program at UNC-Chapel Hill, says the findings highlight why governments must address the underlying dietary contributors to obesity and implement strong public health policies proven to reduce obesity at a population level.
+
+Other countries, like Chile and Mexico, have adopted policies from taxing foods high in sugar to introducing warning labels on packaged foods that are high in sugar, fats and sodium and restricting the marketing of junk foods to children.
+
+"Given the significant threat COVID-19 represents to individuals with obesity, healthy food policies can play a supportive - and especially important - role in the mitigation of COVID-19 mortality and morbidity," he says.

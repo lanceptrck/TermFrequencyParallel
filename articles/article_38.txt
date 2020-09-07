@@ -1,0 +1,40 @@
+Several populations are at a high risk of developing severe coronavirus disease (COVID-19), including the elderly, those who are immunocompromised, and those with underlying health conditions. Recent data has also shown that obese people may develop severe illness.
+
+Now, a new study by researchers from the University of North Carolina (UNC), the World Bank, and Saudi Health Council, shows that obesity increases the risk of dying from COVID-19 by as much as 48 percent, hinting that a vaccine against the virus could be less effective in obese people.
+
+The study
+To arrive at the study findings, the research team looked at data from 75 studies across the globe, spanning nearly 400,000 patients. The team has found that not only is the risk of death 48 percent higher for those who are obese, but their chance of ending up in a hospital is 113 percent higher, and the likelihood of being admitted to intensive care is 74 percent higher.
+
+In the study, published in the journal Obesity Reviews, the team noted that obesity-induced metabolic changes such as inflammation and the impaired ability to use insulin could interfere with the body's ability to fight infections, including flu and hepatitis. Further, the infection can lead to uncontrolled blood glucose levels in patients with diabetes, which can impair the immune response.
+
+The researchers urge governments to focus on reducing the prevalence of obesity, such as warning labels in packaged foods that are high in sugar, fat, and salt. Limiting the marketing of unhealthy food to children is also important.
+
+Why are obese people at a higher risk?
+There are several reasons why obese people are at a higher risk of dying from COVID-19, which is caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2).
+
+Obese people have a higher risk of other underlying illnesses, such as metabolic syndrome, which is a combination of obesity, hypertension, diabetes, and abnormal cholesterol levels. All these factors heighten the risk of heart disease. The more the metabolic syndrome diagnoses a patient has, the worse their prognosis.
+
+In another study published in Diabetes Care, the researchers showed that predominantly black hospitalized COVID-19 patients with metabolic syndrome are about five times more likely to be admitted to intensive care and require a ventilator. They are also 3.4 times more likely to die from their infections.
+
+Moreover, the research revealed that COVID-19 patients who have obesity and diabetes had a higher likelihood of needing a ventilator and experiencing respiratory distress.
+
+"In predominantly black patients hospitalized for COVID-19, the clustering of hypertension, obesity, and diabetes as metabolic syndrome increased the odds of mortality compared with these comorbidities individually," the researchers concluded.
+
+A third study highlights how obese people are more likely to contract SARS-CoV-2. The study, published in the journal Clinical Infectious Diseases, shows that higher levels of obesity are tied to the elevated risk of COVID-19 infection. The team from South Korea examined and compared health-weight control subjects and found that overweight people were 1.1 times more likely to get the virus, whereas obese people were 1.3 times more likely to be infected.
+
+Obesity and vaccines
+Obesity means that the person has a weight that is higher than what is considered normal, adjusted for height. It is when the body mass index is more than 30.
+
+Obesity is a growing worldwide health problem, with the prevalence nearly tripling since 1975. In 2016 alone, more than 1.9 billion adults were overweight, and of these, more than 650 million were obese, the World Health Organization (WHO) reports.
+
+In the United States, more than 1 in 3 adults were considered overweight, while about 1 in 13 adults have extreme obesity. The National Institutes of Health (NIH) reports that obesity is higher in women than men.
+
+One problem with obesity amid the coronavirus pandemic is, vaccines are less effective in obese adults than in adults with a lower body mass index (BMI).
+
+Normally, a person's immune system turns inflammation in the body on and off as needed. On the other hand, an obese person's immune system is in a constant state of mild inflammation, hence, making them prone to infections and other complications related to it, such as a cytokine storm.
+
+The difference can impact how vaccines work in the body since vaccines are developed to leverage the immune system's inflammatory response to protect against a pathogen. Since there is mild inflammation in obese people, it may affect how vaccines work, potentially weakening them.
+
+"As the COVID-19 pandemic evolves, continued investigation into the interplay between metabolic health, especially obesity, and the risk of COVID-19 is warranted to inform control strategies for COVID-19," the researchers wrote in the paper.  
+
+"While awaiting further evidence supporting a causal relationship between obesity and the risk of COVID-19 infections, individuals with a higher [body mass index] could be potentially classified as high risk and thus, prioritized in COVID-19 testing," they added.

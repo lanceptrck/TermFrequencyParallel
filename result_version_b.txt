@@ -1,0 +1,26 @@
+Highest score for article_14.txt is keyword: trial with TFIDF score: 0.08796069905551139
+Highest score for article_4.txt is keyword: worshippers with TFIDF score: 0.10611678543521541
+Highest score for article_12.txt is keyword: tracking with TFIDF score: 0.043351862961187884
+Highest score for article_2.txt is keyword: Duterte with TFIDF score: 0.042659800088614704
+Highest score for article_3.txt is keyword: Qantas with TFIDF score: 0.06569134336465715
+Highest score for article_19.txt is keyword: local with TFIDF score: 0.04368723975119708
+Highest score for article_15.txt is keyword: week with TFIDF score: 0.04598394035526001
+Highest score for article_23.txt is keyword: vaccine with TFIDF score: 0.03139601442587839
+Highest score for article_11.txt is keyword: week with TFIDF score: 0.04598394035526001
+Highest score for article_1.txt is keyword: week with TFIDF score: 0.04598394035526001
+Highest score for article_10.txt is keyword: mental with TFIDF score: 0.06117746450772896
+Highest score for article_6.txt is keyword: vaping with TFIDF score: 0.0658834233160158
+Highest score for article_18.txt is keyword: vaccine with TFIDF score: 0.03139601442587839
+Highest score for article_16.txt is keyword: Duterte with TFIDF score: 0.042659800088614704
+Highest score for article_24.txt is keyword: plasma with TFIDF score: 0.04709983485889521
+Highest score for article_22.txt is keyword: local with TFIDF score: 0.04368723975119708
+Highest score for article_25.txt is keyword: Breastfeeding with TFIDF score: 0.07645785807287887
+Highest score for article_5.txt is keyword: challenge with TFIDF score: 0.0409179130279856
+Highest score for article_20.txt is keyword: local with TFIDF score: 0.04368723975119708
+Highest score for article_9.txt is keyword: Angola with TFIDF score: 0.045434729341244956
+Highest score for article_8.txt is keyword: trial with TFIDF score: 0.08796069905551139
+Highest score for article_13.txt is keyword: Duterte with TFIDF score: 0.042659800088614704
+Highest score for article_7.txt is keyword: challenge with TFIDF score: 0.0409179130279856
+Highest score for article_21.txt is keyword: germinal with TFIDF score: 0.07383801175324904
+Highest score for article_17.txt is keyword: local with TFIDF score: 0.04368723975119708
+Time elapsed is PT6.394S

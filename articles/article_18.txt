@@ -1,0 +1,58 @@
+Up to now, there have been many cases of suspected reinfection, but none were able to rule out the possibility that the virus has remained latent and reemerged after weeks or months
+
+
+Researchers in Hong Kong on Monday, August 24, identified what they said was the first confirmed case worldwide of COVID-19 reinfection, raising questions about the durability of immunity, whether acquired naturally or with a vaccine.
+
+"Our study proves that immunity for COVID infection is not lifelong – in fact, reinfection can occur quite quickly," said Kelvin Kai-Wang To, a microbiologist at Hong Kong University's Faculty of Medicine and lead author of a forthcoming study that details the findings.
+
+"COVID-19 patients should not assume after they recover that they won't get infected again," he told Agence France-Presse in an interview.
+
+Even people who have shaken off the virus should practice social distancing, wear masks, and practice handwashing, he advised.
+
+They should also get tested if suspect symptoms appear.
+
+The case came to light when a 33-year old resident of Hong Kong passed through mandatory screening earlier this month at the Hong Kong airport on his way back from Europe. The so-called PCR swab test was positive.
+
+This came as a surprise because the man had contracted – and recovered from – a COVID infection 4-and-a-half months earlier, and was assumed to have immunity, especially after such a brief time since the infection.
+
+
+To find out whether he had suffered a relapse or had been infected anew, To and his team sequenced the two virus strains and compared their genomes, or genetic coding.
+
+The two viral signatures were "completely different," and belonged to different coronavirus lineages, or clades.
+
+The first closely resembled strains collected in March and April, and the second strain matched the virus found in Europe – where the patient had just been visiting – in July and August.
+
+"The virus mutates all the time," said To. "It is very unlikely that the patient would have gotten the second virus during the first infection."
+
+The fact that a blood sample – taken shortly after the positive test at the airport – showed no antibodies is a further indication that the second virus had not been lingering unnoticed for months.
+
+"This is certainly stronger evidence of reinfection than some of the previous reports because it uses the genome sequence of the virus to separate the two infections," said Jeffrey Barret, a senior scientific consultant for the COVID-19 Genome Project at the Welcome Sanger Institute, commenting on the study.
+
+Broader implications
+Up to now, there have been many cases of suspected reinfection, but none were able to rule out the possibility that the virus has remained latent and reemerged after weeks or months.
+
+But experts differed as to how alarmed the world should be by the new findings, which will be published in the peer-reviewed medical journal Clinical Infectious Diseases.
+
+"This is a worrying finding for two reasons," said David Strain, a clinical senior lecturer at the University of Exeter Medical School.
+
+"It suggests that previous infections are not protective. It also raises the possibility that vaccinations may not provide the hope that we have been waiting for."
+
+If antibodies don't provide lasting protection, "we will need to revert to a strategy of viral near-elimination in order to return to a normal life", he added.
+
+In the same vein, To said that scientists developing vaccines should look not just at the immune response, but at the duration of protection from infection.
+
+But other researchers suggested that the case uncovered was far more likely to be extremely rare.
+
+"It is to be expected that the virus will naturally mutate over time," said microbiologist Brendan Wren of the London School of Hygiene & Tropical Medicine.
+
+"This is a very rare example of reinfection and it should not negate the global drive to develop COVID-19 vaccines."
+
+Barrett agreed.
+
+"This may be very rare, and it may be that second infections – when they do occur – are not serious," he said.
+
+Indeed, the reinfection of the Hong Kong patient was complete asymptomatic.
+
+But this could also mean that such an outcome may be more common than suspected, said To.
+
+"People don't get tested all the time after they recover, especially if they have no symptoms," he said by phone.

@@ -1,0 +1,27 @@
+President Donald Trump announced yesterday (August 23) that the US Food and Drug Administration has granted emergency use authorization for the use of convalescent plasma to treat COVID-19, a disease that has so far killed more than 170,000 people in the US.
+
+“To deliver treatments and vaccines, we’re removing unnecessary barriers and delays, not by cutting corners, but by marshaling the full power of the federal government,” Trump said at a press conference announcing the decision. “Based on the science and the data the FDA has made the independent determination that the treatment is safe and very effective.”
+
+While he hailed the new treatment as a “major breakthrough,” the scientific community has largely reacted with skepticism, in part because the authorization was based on a handful of studies from the Mayo Clinic that failed to include appropriate randomization and controls.
+
+“I watched this in horror,” Eric Topol, a physician and director of the Scripps Research Translational Institute, tells The Washington Post. “These are basically just exploratory analyses that don’t prove anything. It’s just extraordinary to declare this as a breakthrough. . . . All this does is jeopardize ever getting the truth.”
+
+Harlan Krumholz, the director of the Center for Outcomes Research and Evaluation at Yale New Haven Hospital, similarly tells STAT the FDA’s decision “raises the question of what strength of evidence is necessary to treat during a pandemic.”
+
+The new authorization stems from both the historical use of plasma as a safe treatment and a series of studies testing the safety of plasma given to COVID-19 patients. The plasma of people who have recovered from COVID-19 contains antibodies capable of fighting the virus. When administered to those in the grips of the disease, it could in theory help patients survive until their own immune systems can produce the needed antibodies, as has been shown with other diseases. 
+
+In June, the Mayo Clinic released data detailing the safety of plasma given to 20,000 patients, including a high percentage of women and underrepresented minorities. While the results suggested that plasma is safe, the authors reported at the time that “this alone does not provide any evidence on effectiveness of convalescent plasma for treating COVID-19.”
+
+More recently, the Mayo Clinic completed an additional study—released on the preprint server MedRxiv without peer review—involving more than 35,000 additional patients. Adults in the hospital for critical cases of COVID-19 received transfusions of plasma. Those who received the plasma within three days of their diagnosis had a seven-day death rate of 8.7 percent, while those who received the infusion four days after diagnosis died at a rate of 11.9 percent. 
+
+Both studies failed to include a placebo group, making it difficult to assess how well the therapy truly worked. In addition, none were randomized—patients in each study knew they were going to receive plasma.
+
+The Mayo Clinic studies are part of an “expanded access” program launched in April to increase the availability of the treatment rather than to assess its effectiveness. The program, which has ballooned since its inception, has done so in the absence of concrete recommendations from any leading health agency, and there are fears that a run on plasma could use up supplies. US hospitals are currently treating around 1,500 COVID-19 patients a day with blood infusions of plasma, Buzzfeed News reports, totaling more than 70,000 people.
+
+The New York Times reported August 19, prior to the emergency use authorization (EUA), that several experts, including National Institutes of Health Director Francis Collins and National Institute of Allergy and Infectious Diseases (NIAID) Director Anthony Fauci, urged the FDA to reconsider given the relative weakness of the Mayo Clinic results. “The three of us are pretty aligned on the importance of robust data through randomized control trials, and that a pandemic does not change that,” Deputy Director for Clinical Research and Special Projects at NIAID, Clifford Lane, tells The Times.
+
+In response to the FDA’s announcement, the World Health Organization (WHO) issued a statement urging caution over the effectiveness of plasma, Reuters reports. “There are a number of clinical trials going on around the world looking at convalescent plasma compared to the standard of care,” Soumya Swaminathan, the WHO’s chief scientist, said in a news conference. “Only a few of them have actually reported interim results . . . and at the moment, it’s still very low-quality evidence.”
+
+The FDA acknowledges the limitations of the intervention in the supporting EUA documentation. Denise Hinton, the chief scientist for the FDA, stated, “COVID-19 convalescent plasma should not be considered a new standard of care for the treatment of patients with COVID-19. Additional data will be forthcoming from other analyses and ongoing, well-controlled clinical trials in the coming months.”
+
+But some experts, including Katharine Bar, an assistant professor of medicine at the University of Pennsylvania, says she worries the widespread use of plasma will dissuade patients from voluntarily enrolling in these robust clinical trials, where they are randomly assigned to treatment groups that could result in them receiving a placebo. “I just think logistically it’s going to be very challenging,” Bar tells Buzzfeed.

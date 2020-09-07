@@ -1,0 +1,27 @@
+In February of this year, more than 100 leaders of the drug company Biogen met in Boston. Among them was at least one person infected with COVID-19. 
+
+While the Massachusetts Department of Public Health initially identified 97 cases linked to the conference through contact tracing, a new study detailing the genomes of viruses collected from the Greater Boston area indicates that the gathering may have led to more than 20,000 cases across four counties.
+
+The authors of the study arrived at the new count using what Bronwyn MacInnis, an infectious disease researcher at the Broad Institute and the senior author of the paper, describes to the Associated Press as “a pretty unsophisticated, back-of-the envelope calculation.” The total does not appear in the paper, posted August 25 on the preprint server medRxiv, but her coauthor Jacob Lemieux, an infectious disease physician at Massachusetts General Hospital, tells the Boston Globe, “I’m confident that the scale for measuring this event is in the tens of thousands.”
+
+In late February, when the conference began, Vice President Mike Pence was just forming his coronavirus task force, there were a few dozen COVID-19 cases identified in the US, and the authors stress that they are not faulting Biogen. In a prepared statement sent to The Washington Post, Biogen shared that they had followed all necessary precautions available at the time and immediately reported each case to health officials.
+
+Shortly after people began falling ill, employees at Biogen realized they had an opportunity to “offer their own anonymized medical information to research efforts,” Maha Radhakrishnan, the chief medical officer at Biogen, told The Scientist in an email in May. “We realized we were in a unique position to contribute to advancing COVID-19 science in an organized and deliberate way.”
+
+Their medical information became part of one of the most comprehensive viral genome studies to emerge out of the pandemic. The research team, which included more than 50 scientists and public health officials from around Massachusetts, analyzed the genomes of SARS-CoV-2 pulled from 772 patients. Almost all were from Essex, Middlesex, Norfolk, and Suffolk counties in Massachusetts who had visited a hospital or clinic between January and May, the Globe reports, including 28 people identified in the initial 97 cases linked to the conference.
+
+As a virus replicates, it accumulates small, often insignificant changes to its genetic code. Scientists identified a single mutation common in the virus of those who attended the conference, a mutation they named C2416T for its location along the genome and the two nucleic acids, cytosine (C) and uracil (the T is for thymine, which replaces RNA’s uracil in DNA), that were switched.
+
+The authors found this mutation in 289 patients—more than one-third of all the people they looked at—far outstripping the number of people who had attended the conference. In fact, those 289 genomes represent 3 percent of all the SARS-CoV-2 genomes sequenced in the entire United States, according to the Post. 
+
+A large percentage of these cases stemmed from local homeless individuals taking refuge in shelters and the employees who worked there, a finding that Pardis Sabeti, a computational biologist at the Broad Institute and one of the lead researchers on the study, calls jaw-dropping. “It was the realization that these events really affect the most vulnerable among us,” Sabeti tells The Post. It’s unknown how the virus jumped from the conference to those living on the streets of Boston.
+
+The researchers also identified another 79 unique variants of SARS-CoV-2 that had been introduced into Boston, mostly from other US states or from western Europe, the authors report. And just as variants pour into an area, so they spread outward. In addition to the local cases, the molecular signature of the Biogen outbreak has been found in patients in Tennessee, North Carolina, Indiana, New Jersey, Washington, DC, and overseas, according to the Globe.
+
+“This is the kind of study that . . . defines why genomics can be so useful in outbreak reconstruction,” Vaughn Cooper, a microbiologist at the University of Pittsburgh who was not involved in the study, tells the Globe. “It reflects a great deal of coordinating work, and that’s what in part makes this so powerful."
+
+Outside experts have also largely accepted the team’s estimation of how many cases may be attributable to the conference. Caroline Buckee, an epidemiologist at Harvard University, tells the Globe she has no problem believing a single event could cause 20,000 cases. “Super-spreading is really a key component of how we ended up with an epidemic of this gravity,” she says.
+
+Similarly, Dan Hartl, a population geneticist at Harvard University who was not involved in the study, tells the Globe that he found the estimate of 20,000 cases credible, “although I grant you it’s eye-popping.” 
+
+The authors have been quick to urge that there is nothing particularly special about the C2416T variant that makes it more powerful than other strains. “Some [viral] introductions fizzle out, others light fires,” MacInnis tells the Globe. “The circumstances of this event?the fact that it happened so early in the epidemic and the timing of where we were with COVID in the public consciousness?meant it had a disproportionate effect.”
