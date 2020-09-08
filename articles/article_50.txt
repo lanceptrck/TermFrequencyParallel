@@ -1,30 +1,16 @@
 The severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) that causes coronavirus disease (COVID-19), is still actively spreading like wildfire, with nearly 300,000 new infections reported daily across the globe. Early on in the outbreak in China, scientists said that the virus could spread through respiratory droplets, when a person coughs, sneezes, or speaks.
-
 Recent evidence shows that the virus can remain suspended in the air and travel long distances as aerosols. Another recent study shows that infectious SARS-CoV-2 aerosols can travel up drain pipes in toilets in buildings and apartments, even reaching several floors above.
-
 Now, a team of researchers says they have evidence that a woman contracted the coronavirus on a flight, perhaps in the airplane’s toilet.
-
 The study, published in the journal Emerging Infectious Diseases, reveals evidence of transmission on an evacuation flight from Milan, Italy, to Seoul, South Korea, in late March.
-
 Six of the travelers tested positive at the start of the quarantine period but were asymptomatic or had no symptoms of COVID-19. Meanwhile, a seventh passenger tested positive on the seventh day of the quarantine, despite previously getting negative results.
-
 The passenger had worn her N95 mask for the entire flight duration, except when she used the bathroom. She also was seated three rows ahead of the asymptomatic travelers.
-
 “Given that she did not go outside and had self-quarantined for 3 weeks alone at her home in Italy before the flight and did not use public transportation to get to the airport, it is highly likely that her infection was transmitted in the flight via indirect contact with an asymptomatic patient,” the researchers said.
-
 The patient-reported symptoms such as coughing, runny nose, and body pains on the 8th day of quarantine and was transferred to a hospital on the 14th day. The remaining 292 passengers were released from quarantine on the 15th day.
-
 Positive patients
-
 Flight transmission of pathogens
 Previous studies have shown that inflight transmission of other respiratory infections, such as severe acute respiratory syndrome (SARS) and influenza, may occur in people who sit near an infected person. This considering the difficulty of airborne infection transmission during the flight due to the high-efficiency particulate-arresting filters used in aircraft ventilation systems.
-
 Usually, the transmission of the virus occurs when passengers are boarding, moving, or disembarking. Meanwhile, the researchers believe the woman contracted the virus in the plane’s toilet.
-
 Since the KCDC performed robust infection control procedures, the woman may have been exposed to the virus in the toilet when an asymptomatic passenger may have used it before she did.
-
 The team also noted that other explanations might indicate that she had previous SARS-CoV-2 exposure; she had a more extended incubation period or had other unevaluated situations where she contracted the virus.
-
 “Our research provides evidence of asymptomatic transmission of COVID-19 on an airplane. Further attention is warranted to reduce the transmission of COVID-19 on aircraft. Our results suggest that stringent global regulations for the prevention of COVID-19 transmission on aircraft can prevent public health emergencies,” the team concluded.
-
 The coronavirus pandemic is sweeping across the globe, with most of the cases tied to asymptomatic spread. With the airborne or aerosol transmission a possibility, many people may get infected if they do not practice infection precautions, such as proper hand hygiene, wearing masks, and physical distancing.

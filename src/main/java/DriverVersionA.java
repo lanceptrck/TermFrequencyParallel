@@ -37,8 +37,8 @@ public class DriverVersionA {
 
 		ExecutorService es = Executors.newFixedThreadPool(keywords.size());
 
-		for (String s : keywords) {
-			TFIDFThreadVersionA t = new TFIDFThreadVersionA(documents, s);
+		for (String keyword : keywords) {
+			TFIDFThreadVersionA t = new TFIDFThreadVersionA(documents, keyword);
 			es.submit(t);
 			threadMonitor.add(t);
 			// t.start();

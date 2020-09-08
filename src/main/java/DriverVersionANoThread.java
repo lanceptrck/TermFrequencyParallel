@@ -9,6 +9,7 @@ import java.util.List;
 public class DriverVersionANoThread {
 
 	public static void main(String args[]) {
+		
 		List<String> documentNames = new ArrayList<String>();
 		List<List<String>> documents = new ArrayList<List<String>>();
 		TFIDFCalculator calc = new TFIDFCalculator();

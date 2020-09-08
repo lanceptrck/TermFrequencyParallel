@@ -1,83 +1,44 @@
 COVID-19 makes it harder for LGUs to respond to disasters properly. But problems in the country's evacuation centers have been there even before the pandemic.
-
-
 Not long after the Philippine Atmospheric, Geophysical, and Astronomical Services Administration (PAGASA) declared the start of the rainy season in June, Defense Secretary Delfin Lorenzana was asked about how prepared the country was for disasters – not that the pandemic wasn't a disaster in itself.
-
 In the pre-SONA 2020 forum on July 21, where he was asked about the preparedness measures being taken by the National Disaster Risk Reduction and Management Council (NDRRMC) and the Office of Civil Defense (OCD) for the rainy season, Lorenzana confidently replied that the country does not need additional preparation because the government had developed infrastructure and capacities for the regional and provincial disaster management councils in the past several years.
-
 “So nandiyan na sila, dahil nga tayo ay dinadalaw ng ulan at bagyo taon-taon, ay nakagawa na tayo ng hakbang. ([The systems] are already there. Because we are frequently hit by storms and typhoons, we have taken necessary steps.) We have already strengthened the capacities of provinces – the towns and the barangays, in fact – to address any adverse effect of the rainy season,” Lorenzana said.
-
 For disaster risk reduction practitioners working in advocacy group Agap Banta, however, there’s more that needs to be done especially now that the country is dealing with COVID-19. Agap Banta gathers practical preparedness actions during the pandemic by consulting with local government units (LGUs), disaster risk reduction and management experts, and civil society.
-
-
 Despite having better climate science, LGUs still don’t have enough evacuation centers that adhere to the minimum design standards. Areas that were hit by the first typhoons this year, as well as by other disasters such as the magnitude 6.6 earthquake in Masbate, also struggled with implementing physical distancing.
-
 On top of this, there is still no comprehensive, up-to-date database of evacuation centers in the country, which could help in the pre-disaster planning process.
-
 “In the long-term, reality on the ground tells us that national agencies still need to strengthen support for local government units with low capacities, low-income class, especially those in multiple hazard areas to strengthen evacuation structures and systems,” Krish Enriquez-Gascon, team lead of Agap Banta, told Rappler in a video interview.
-
 Congestion problem
 In an interview with News 5’s The Chiefs on August 19, Cataingan, Masbate Mayor Felipe Cabataña appealed to the national government for tents that they could use as temporary shelters for evacuees after his town was hit by the magnitude 6.6 earthquake.
-
 Some 3,000 displaced residents of the municipality of Cataingan were cramped into schools as the LGU’s existing evacuation facilities were either damaged by the earthquake or were already turned into isolation areas and quarantine centers for COVID-19. Because of the lack of space, Cabataña said they had a hard time implementing physical distancing protocols.
-
-
 “'Yun na nga ang problema, dahil ang evacuation center, maliit lang ang area. Kaya hindi talaga mapipigilan na magka-overcrowded. Kaya papaano 'yung social distancing namin na ma-o-observe, kung ganoon ang sitwasyon?” Cabataña said, adding that tents would help in isolating evacuees.
-
 (The problem is that the evacuation center is small, that’s why overcrowding is unavoidable. So how could we practice physical distancing if that’s the situation?)
-
 This problem is not new or unique to the pandemic. A 2019 study on the spatial distribution of evacuation centers in Metro Manila alone showed that congestion has always been a problem.
-
 The study showed that one existing evacuation center in each city is expected to house thousands of its population. On top of this, about 45% of evacuation centers mapped were also situated in flood-prone areas, while 12% were located within the hazard zone of an active fault line.
-
 Schools as evacuation centers
 Even before COVID-19, many evacuees sought refuge in schools, multi-purpose buildings, or basketball courts due to the lack of designated evacuation centers in their respective municipalities.
-
 In the list of evacuation centers in the country provided by the OCD in September 2019, majority (63.45%) were schools: buildings for high schools, elementary schools, primary schools, and barangay halls and day care centers. Dedicated evacuation centers were only 2.86%.
 There have been developments initiated by the government to address the problem. The passage of the Disaster Risk Reduction and Management Act in 2010 helped in the crafting of national standards in carrying out disaster risk reduction programs. The Department of Public Works and Highways (DPWH) and Department of the Interior and Local Government (DILG) set minimum design recommendation standards for dedicated evacuation centers, too.
-
 As of July 2020, the OCD said there have been 287 evacuation centers programmed by the DPWH for all regions in the country since 2016. Of this, 130 were completed, 67 are under construction, and 90 are in the procurement process.
-
 However, even after these are all completed, schools remain prominent temporary shelters for evacuees.
-
 Upholding standards
 “Ultimately, [the lack of evacuation centers] will impact future disaster preparedness and response especially if our objective is to achieve zero casualty and zero COVID-19 transmission,” said Susan Jose, technical specialist of Agap Banta. Jose had over 20 years of experience in the public sector working in social, economic, and environmental planning before joining the advocacy group.
-
 Gaps in the implementation of policies have also persisted. For one, standards for the site, design, and evacuation center management were not upheld across the board especially in existing facilities.
-
-
 It is not only the lack of evacuation centers but the quality of evacuation centers that need to be rethought or redesigned
 KRISH ENRIQUEZ-GACON, AGAP BANTA TEAM LEAD
-
 “Newer evacuation centers tend to follow minimum design requirements but critical facilities designated as evacuation centers such as barangay halls do not have these requirements,” said Kissy Sumaylo-Pearlman, consultant of Agap Banta. Sumaylo-Pearlman has been involved in disaster risk reduction in the last decade and had previously worked in Thailand and Cambodia prior to joining the advocacy group.
-
 Minimum design recommendations for LGU-managed evacuation centers include basic facilities such as breastfeeding room, storage or logistics area, rainwater collector, solar panel, comfort rooms, room for persons with disabilities, clinic, and child-friendly rooms. But with the lack of available land and budget constraints, compliance with these standards is often compromised.
-
 “It is not only the lack of evacuation centers but the quality of evacuation centers that need to be rethought or redesigned given the considerable resources that go into them,” Enriquez-Gascon said.
-
 No database
 Aside from having mandatory evacuation centers, Jose said that mitigation works also need to be planned carefully. One key tool missing is a centralized, publicly-available database of evacuation centers in the country, which could help in prioritizing resources and beefing up the capacity of LGUs.
-
 Enriquez-Gascon said it shouldn’t just be a master list like what OCD has, but a database that has important information such as capacity, standard facilities, location, and susceptibility to hazards.
-
-
 Although this type of inventory exists at the local level as it is part of the LGUs' contingency planning, one with a larger scope – such as at a regional and national level – is important for better coordination.
-
 “If we have a database, that could have helped in terms of accounting not just the numbers of evacuation centers in places but also the number of people in each of the cities and municipalities. So ahead of time, you can actually compute, probably, how much LGUs necessarily need,” said Bonifacio Javier III, researcher at Agap Banta and former humanitarian worker at the United Nations.
-
 What LGUs can do during the pandemic
 Typhoon Ambo, the first typhoon that hit the country this year, tested the risk management capacity of the LGUs affected. Although all of the LGUs struggled given the added weight of the pandemic, some were able to effectively respond.
 Some LGUs like Northern Samar, which was hit by Typhoon Ambo in May, have initiated memoranda of agreement with private residences that have been identified in the respective barangay contingency plans to become temporary shelters during disasters.
-
 Jose said this practice is normally promoted by the local government for the homeowners’ relatives but there were also instances where some families opened their doors to evacuees, such as in the case of the Taal Volcano eruption.
 “Increasingly, this [private housing] is being recognized as a form of community evacuation mechanism but it’s not formalized across LGUs. It’s been mentioned as a community mechanism as a form of a safety net,” Sumaylo-Pearlman said, emphasizing the importance of the house registration in the contingency plan. “Because if the residence is not registered, the evacuees might not be given relief items.”
-
 Nearby LGUs, meanwhile, had other strategies. Sorsogon City and Naval town in Biliran utilized physical barriers and acquired modular tents to maintain proper distancing. The barangays of Ipil, Ibayugan, Sta. Cruz, and Iraya in Camarines Sur reduced the capacity of evacuees in evacuation centers to almost half. Albay had designated rooms for the sick and elderly. (READ: How local governments observed physical distancing in evacuation centers)
-
 All the steps taken by LGUs mentioned above were valuable, but Agap Banta said a more proactive approach in disaster risk management would be more beneficial in the long run.
-
 When asked for possible scenarios should a large-scale disaster hit the Philippines as it continues to battle COVID-19, Agap Banta members all said many LGUs would struggle and be heavily affected. (READ: LGUs must plan early to juggle pandemic response with typhoons – expert)
-
 Budgets for disaster management are already depleted due to the pandemic, and Jose said international appeal would be difficult and international responders would have a hard time coming to the country because of the protocols surrounding COVID-19.
-
 “The best response will be preparedness for this kind of eventuality,” Jose said. “If we put in our efforts on preparedness, adding more time to act, and then be able to coordinate with your neighboring LGUs, I think we should be able to see [improvements].”
