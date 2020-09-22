@@ -27,4 +27,4 @@ Highest tf-idf score for keyword (healthcare) is: 0.00961849817695739 on documen
 Highest tf-idf score for keyword (workers) is: 0.020499785570995355 on document: article_44.txt
 Highest tf-idf score for keyword (death) is: 0.013192114036345085 on document: article_29.txt
 Highest tf-idf score for keyword (deaths) is: 0.03674568060196986 on document: article_11.txt
-Time elapsed is PT0.321S
+Time elapsed is PT10.623S

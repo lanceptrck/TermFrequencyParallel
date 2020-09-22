@@ -13,9 +13,9 @@ public class DriverVersionBNoThread {
 		TFIDFCalculator calc = new TFIDFCalculator();
 		double highest = 0.0;
 		String documentName = "article_";
-		final int documentCount = 25;
+		final int documentCount = 50;
 		String result = "";
-		String result_name = "result_version_b_no_thread.txt";
+		String result_name = "result_version_b_no_thread_mine.txt";
 
 		DriverVersionA.clear(result_name);
 

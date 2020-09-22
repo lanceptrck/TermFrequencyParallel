@@ -1,3 +1,4 @@
+import java.io.Serializable;
 import java.time.Duration;
 import java.time.Instant;
 import java.util.Arrays;
@@ -6,12 +7,13 @@ import java.util.List;
 /**
  * @author Mohamed Guendouz
  */
-public class TFIDFCalculator {
+public class TFIDFCalculator implements ITFIDFCalculator, Serializable{
 	/**
 	 * @param doc  list of strings
 	 * @param term String represents a term
 	 * @return term frequency of term in document
 	 */
+	@Override
 	public double tf(List<String> doc, String term) {
 		double result = 0;
 		for (String word : doc) {
@@ -26,6 +28,7 @@ public class TFIDFCalculator {
 	 * @param term String represents a term
 	 * @return the inverse term frequency of term in documents
 	 */
+	@Override
 	public double idf(List<List<String>> docs, String term) {
 		double n = 0;
 		for (List<String> doc : docs) {
@@ -45,6 +48,7 @@ public class TFIDFCalculator {
 	 * @param term term
 	 * @return the TF-IDF of term
 	 */
+	@Override
 	public double tfIdf(List<String> doc, List<List<String>> docs, String term) {
 		return tf(doc, term) * idf(docs, term);
 

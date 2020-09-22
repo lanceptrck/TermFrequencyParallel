@@ -35,26 +35,25 @@ public class DriverVersionA {
 				"corruption", "quarantine", "president", "antibody", "antibodies", "FDA", "donald", "trump", "research",
 				"study", "studies", "healthcare", "workers", "death", "deaths");
 
-		ExecutorService es = Executors.newFixedThreadPool(keywords.size());
-
 		for (String keyword : keywords) {
 			TFIDFThreadVersionA t = new TFIDFThreadVersionA(documents, keyword);
-			es.submit(t);
+			// es.submit(t);
 			threadMonitor.add(t);
-			// t.start();
-		}
-
-		es.shutdown();
-
-		try {
-			es.awaitTermination(Long.MAX_VALUE, TimeUnit.NANOSECONDS);
-		} catch (InterruptedException e) {
-
+			t.start();
 		}
 
 		/*
-		 * for (TFIDFThread t : threadMonitor) { t.join(); }
+		 * es.shutdown();
+		 * 
+		 * try { es.awaitTermination(Long.MAX_VALUE, TimeUnit.NANOSECONDS); } catch
+		 * (InterruptedException e) {
+		 * 
+		 * }
 		 */
+
+		for (TFIDFThreadVersionA t : threadMonitor) {
+			t.join();
+		}
 
 		System.out.println("\nCheck counter: " + TFIDFThreadVersionA.count);
 

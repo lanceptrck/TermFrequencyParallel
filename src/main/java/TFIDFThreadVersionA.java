@@ -2,6 +2,7 @@ import java.io.BufferedWriter;
 import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
+import java.io.Serializable;
 import java.time.Duration;
 import java.time.Instant;
 import java.util.ArrayList;
@@ -13,7 +14,7 @@ import java.util.concurrent.TimeUnit;
 import java.util.concurrent.locks.ReentrantLock;
 import java.util.stream.IntStream;
 
-public class TFIDFThreadVersionA implements Runnable {
+public class TFIDFThreadVersionA implements Runnable, Serializable {
 
 	private Thread t;
 	private List<List<String>> documents;
@@ -25,7 +26,8 @@ public class TFIDFThreadVersionA implements Runnable {
 
 	private double highest = 0.0;
 
-	public TFIDFThreadVersionA(List<String> document, List<List<String>> documents, String documentName, String keyword) {
+	public TFIDFThreadVersionA(List<String> document, List<List<String>> documents, String documentName,
+			String keyword) {
 		super();
 		this.documents = documents;
 		this.documentName = documentName;

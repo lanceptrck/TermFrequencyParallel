@@ -23,4 +23,4 @@ Highest score for article_22.txt is keyword: local with TFIDF score: 0.043687239
 Highest score for article_23.txt is keyword: vaccine with TFIDF score: 0.03139601442587839
 Highest score for article_24.txt is keyword: plasma with TFIDF score: 0.04709983485889521
 Highest score for article_25.txt is keyword: Breastfeeding with TFIDF score: 0.07645785807287887
-Time elapsed is PT50.8S
+Time elapsed is PT27.551S

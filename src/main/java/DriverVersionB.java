@@ -9,7 +9,7 @@ import java.util.concurrent.TimeUnit;
 
 public class DriverVersionB {
 	
-	static final String result_name = "result_version_b.txt";
+	static final String result_name = "result_version_mine.txt";
 
 	public static void main(String[] args) {
 
