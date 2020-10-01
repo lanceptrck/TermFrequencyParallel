@@ -7,7 +7,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-public class ClientWithThread {
+public class ClientWithThreadA {
 
 	static final String result_name = "result_version_a.txt";
 
