@@ -23,6 +23,7 @@ public class TFIDFThreadVersionA implements Runnable, Serializable {
 	private TFIDFCalculator calculator;
 	private String threadName;
 	public static int count = 0;
+	private String fileName;
 
 	private double highest = 0.0;
 
@@ -37,10 +38,11 @@ public class TFIDFThreadVersionA implements Runnable, Serializable {
 		System.out.println("Created thread for " + threadName);
 	}
 
-	public TFIDFThreadVersionA(List<List<String>> documents, String keyword) {
+	public TFIDFThreadVersionA(List<List<String>> documents, String keyword, String fileName) {
 		super();
 		this.documents = documents;
 		this.keyword = keyword;
+		this.fileName = fileName;
 		calculator = new TFIDFCalculator();
 		System.out.println("Created thread for " + keyword);
 	}
@@ -73,7 +75,7 @@ public class TFIDFThreadVersionA implements Runnable, Serializable {
 			String report = "Highest tf-idf score for keyword (" + keyword + ") is: " + highest + " on document: "
 					+ documentName;
 
-			FileWriteUtils.write(DriverVersionA.result_name, report);
+			FileWriteUtils.write(fileName, report);
 
 		} catch (InterruptedException e) {
 			System.out.println("Thread " + keyword + " interrupted.");

@@ -36,7 +36,7 @@ public class DriverVersionA {
 				"study", "studies", "healthcare", "workers", "death", "deaths");
 
 		for (String keyword : keywords) {
-			TFIDFThreadVersionA t = new TFIDFThreadVersionA(documents, keyword);
+			TFIDFThreadVersionA t = new TFIDFThreadVersionA(documents, keyword, result_name);
 			// es.submit(t);
 			threadMonitor.add(t);
 			t.start();

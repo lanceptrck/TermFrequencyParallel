@@ -1,3 +1,4 @@
+import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -28,9 +29,13 @@ public class ProcessUtils {
 		return wordList;
 	}
 
-	public static void printLinesSeparately(List<String> lines){
+	public static void printLinesSeparately(List<String> lines, String fileName){
 		for(String str : lines){
-			System.out.println(str);
+			try {
+				FileWriteUtils.write(fileName, str);
+			} catch (IOException e) {
+				e.printStackTrace();
+			}
 		}
 	}
 

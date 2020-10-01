@@ -23,7 +23,7 @@ public class ClientWithThreadB {
 
             List<String> documentNames = new ArrayList<String>();
             List<List<String>> documents = new ArrayList<List<String>>();
-            final int documentCount = 10;
+            final int documentCount = 50;
 
             DriverVersionA.clear(result_name_client);
             remote.clear(result_name_server);
@@ -62,7 +62,7 @@ public class ClientWithThreadB {
             Instant end = Instant.now();
             Duration timeElapsed = Duration.between(start, end);
 
-            System.out.println(remote.getRemainingFileContents(result_name_server).size());
+            ProcessUtils.printLinesSeparately(remote.getRemainingFileContents(result_name_server), result_name_client);
 
             String timeElapsedInfo = "Time elapsed is " + timeElapsed;
 

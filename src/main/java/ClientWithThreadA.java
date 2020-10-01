@@ -9,13 +9,14 @@ import java.util.List;
 
 public class ClientWithThreadA {
 
-	static final String result_name = "result_version_a.txt";
+	static final String result_name_client = "result_version_a_client.txt";
+	static final String result_name_server = "result_version_a_server.txt";
 
 	public static void main(String[] args) {
 		try {
 			Registry registry;
 
-			registry = LocateRegistry.getRegistry("192.168.109", 9600);
+			registry = LocateRegistry.getRegistry(9600);
 
 			ThreadVersionARemote remote = (ThreadVersionARemote) registry.lookup("FactoryA");
 			List<TFIDFThreadVersionA> threadMonitor = new ArrayList<TFIDFThreadVersionA>();
@@ -24,7 +25,8 @@ public class ClientWithThreadA {
 			List<List<String>> documents = new ArrayList<List<String>>();
 			final int documentCount = 50;
 
-			DriverVersionA.clear(result_name);
+			DriverVersionA.clear(result_name_client);
+			remote.clear(result_name_server);
 
 			for (int i = 1; i <= documentCount; i++) {
 				documentNames.add("article_" + i + ".txt");
@@ -42,29 +44,31 @@ public class ClientWithThreadA {
 			int counter = 0;
 			for (String keyword : keywords) {
 				if (counter % 2 == 0) {
-					TFIDFThreadVersionA t = new TFIDFThreadVersionA(documents, keyword);
+					TFIDFThreadVersionA t = new TFIDFThreadVersionA(documents, keyword, result_name_client);
 					threadMonitor.add(t);
 					t.start();
 				} else {
-					remote.run(documents, keyword);
+					remote.run(documents, keyword, result_name_server);
 				}
 
 				counter++;
 			}
 
-			/*for (TFIDFThreadVersionA t : threadMonitor) {
+			for (TFIDFThreadVersionA t : threadMonitor) {
 				t.join();
-			}*/
+			}
 
 			remote.joinAll();
 
 			Instant end = Instant.now();
 			Duration timeElapsed = Duration.between(start, end);
 
+			ProcessUtils.printLinesSeparately(remote.getRemainingFileContents(result_name_server), result_name_client);
+
 			String timeElapsedInfo = "Time elapsed is " + timeElapsed;
 
 			try {
-				FileWriteUtils.write(result_name, timeElapsedInfo);
+				FileWriteUtils.write(result_name_client, timeElapsedInfo);
 			} catch (IOException e) {
 				e.printStackTrace();
 			}
