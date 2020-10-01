@@ -8,4 +8,6 @@ public interface ThreadVersionBRemote extends Remote {
 
     public void joinAll() throws RemoteException;
 
+    public List<String> getRemainingFileContents(String fileName) throws RemoteException;
+
 }

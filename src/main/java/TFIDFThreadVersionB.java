@@ -11,6 +11,7 @@ public class TFIDFThreadVersionB implements Runnable {
     private String documentName;
     private TFIDFCalculator calc;
     public static int count = 0;
+    public String fileName;
 
     private double highest = 0.0;
 
@@ -19,6 +20,7 @@ public class TFIDFThreadVersionB implements Runnable {
         this.documents = documents;
         this.documentName = documentName;
         this.keywords = new ArrayList<String>(document);
+        this.fileName = fileName;
         calc = new TFIDFCalculator();
         System.out.println("Created thread for " + documentName);
     }
@@ -43,7 +45,7 @@ public class TFIDFThreadVersionB implements Runnable {
         }
 
         try {
-            FileWriteUtils.write(DriverVersionB.result_name, report);
+            FileWriteUtils.write(fileName, report);
         } catch (IOException e) {
             e.printStackTrace();
         }

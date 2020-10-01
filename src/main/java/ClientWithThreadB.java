@@ -15,7 +15,7 @@ public class ClientWithThreadB {
         try {
             Registry registry;
 
-            registry = LocateRegistry.getRegistry("192.168.106", 9600);
+            registry = LocateRegistry.getRegistry(9600);
 
             ThreadVersionBRemote remote = (ThreadVersionBRemote) registry.lookup("FactoryB");
             List<TFIDFThreadVersionB> threadMonitor = new ArrayList<TFIDFThreadVersionB>();
@@ -59,6 +59,8 @@ public class ClientWithThreadB {
 
             Instant end = Instant.now();
             Duration timeElapsed = Duration.between(start, end);
+
+            remote.getRemainingFileContents(result_name);
 
             String timeElapsedInfo = "Time elapsed is " + timeElapsed;
 

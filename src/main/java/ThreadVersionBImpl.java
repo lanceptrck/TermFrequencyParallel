@@ -5,6 +5,7 @@ import java.util.List;
 public class ThreadVersionBImpl implements ThreadVersionBRemote {
 
     private List<TFIDFThreadVersionB> threadMonitor;
+    private LanguageReader lr;
 
     public ThreadVersionBImpl() {
         this.threadMonitor = new ArrayList<>();
@@ -22,5 +23,11 @@ public class ThreadVersionBImpl implements ThreadVersionBRemote {
         for(TFIDFThreadVersionB t : threadMonitor){
             t.join();
         }
+    }
+
+    @Override
+    public List<String> getRemainingFileContents(String fileName) throws RemoteException {
+        lr = new LanguageReader(fileName);
+        return lr.getLanguage();
     }
 }
