@@ -10,4 +10,6 @@ public interface ThreadVersionBRemote extends Remote {
 
     public List<String> getRemainingFileContents(String fileName) throws RemoteException;
 
+    public void clear(String fileName) throws RemoteException;
+
 }

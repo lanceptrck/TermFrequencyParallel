@@ -28,4 +28,10 @@ public class ProcessUtils {
 		return wordList;
 	}
 
+	public static void printLinesSeparately(List<String> lines){
+		for(String str : lines){
+			System.out.println(str);
+		}
+	}
+
 }

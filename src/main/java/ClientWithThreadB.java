@@ -9,22 +9,24 @@ import java.util.List;
 
 public class ClientWithThreadB {
 
-    static final String result_name = "result_version_b_client.txt";
+    static final String result_name_client = "result_version_b_client.txt";
+    static final String result_name_server = "result_version_b_server.txt";
 
     public static void main(String[] args) {
         try {
             Registry registry;
 
-            registry = LocateRegistry.getRegistry(9600);
+            registry = LocateRegistry.getRegistry("192.168.0.106", 9600);
 
             ThreadVersionBRemote remote = (ThreadVersionBRemote) registry.lookup("FactoryB");
             List<TFIDFThreadVersionB> threadMonitor = new ArrayList<TFIDFThreadVersionB>();
 
             List<String> documentNames = new ArrayList<String>();
             List<List<String>> documents = new ArrayList<List<String>>();
-            final int documentCount = 25;
+            final int documentCount = 10;
 
-            DriverVersionA.clear(result_name);
+            DriverVersionA.clear(result_name_client);
+            remote.clear(result_name_server);
 
             for (int i = 1; i <= documentCount; i++) {
                 documentNames.add("article_" + i + ".txt");
@@ -42,11 +44,11 @@ public class ClientWithThreadB {
             int counter = 0;
             for (int i = 0; i < documentCount; i++) {
                 if (counter % 2 == 0) {
-                    TFIDFThreadVersionB t = new TFIDFThreadVersionB(documents, documents.get(i), documentNames.get(i), result_name);
+                    TFIDFThreadVersionB t = new TFIDFThreadVersionB(documents, documents.get(i), documentNames.get(i), result_name_client);
                     threadMonitor.add(t);
                     t.start();
                 } else {
-                    remote.run(documents, documents.get(i), documentNames.get(i), result_name);
+                    remote.run(documents, documents.get(i), documentNames.get(i), result_name_server);
                 }
                 counter++;
             }
@@ -60,12 +62,12 @@ public class ClientWithThreadB {
             Instant end = Instant.now();
             Duration timeElapsed = Duration.between(start, end);
 
-            remote.getRemainingFileContents(result_name);
+            System.out.println(remote.getRemainingFileContents(result_name_server).size());
 
             String timeElapsedInfo = "Time elapsed is " + timeElapsed;
 
             try {
-                FileWriteUtils.write(result_name, timeElapsedInfo);
+                FileWriteUtils.write(result_name_client, timeElapsedInfo);
             } catch (IOException e) {
                 e.printStackTrace();
             }

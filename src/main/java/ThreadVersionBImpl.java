@@ -30,4 +30,9 @@ public class ThreadVersionBImpl implements ThreadVersionBRemote {
         lr = new LanguageReader(fileName);
         return lr.getLanguage();
     }
+
+    @Override
+    public void clear(String fileName) throws RemoteException {
+        DriverVersionA.clear(fileName);
+    }
 }
