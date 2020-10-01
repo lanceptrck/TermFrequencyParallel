@@ -18,7 +18,7 @@ public class Server {
 			registry.bind("ITFIDFCalculator", calc);
 			registry.bind("FactoryA", factory);
 
-			System.err.println("Server Ready");
+			System.err.println("Server Readcmdy");
 
 		} catch (Exception e) {
 			e.printStackTrace();

@@ -19,7 +19,8 @@ public class Client {
 		try {
 			Registry registry;
 
-			registry = LocateRegistry.getRegistry(9600);
+
+			registry = LocateRegistry.getRegistry("192.168.0.109", 9600);
 
 			// Looking up the registry for the remote object
 			ITFIDFCalculator calculator = (ITFIDFCalculator) registry.lookup("ITFIDFCalculator");

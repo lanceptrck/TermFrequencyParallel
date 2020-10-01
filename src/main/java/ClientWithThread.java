@@ -15,7 +15,7 @@ public class ClientWithThread {
 		try {
 			Registry registry;
 
-			registry = LocateRegistry.getRegistry(9600);
+			registry = LocateRegistry.getRegistry("192.168.109", 9600);
 
 			ThreadVersionARemote remote = (ThreadVersionARemote) registry.lookup("FactoryA");
 			List<TFIDFThreadVersionA> threadMonitor = new ArrayList<TFIDFThreadVersionA>();
@@ -52,9 +52,9 @@ public class ClientWithThread {
 				counter++;
 			}
 
-			for (TFIDFThreadVersionA t : threadMonitor) {
+			/*for (TFIDFThreadVersionA t : threadMonitor) {
 				t.join();
-			}
+			}*/
 
 			remote.joinAll();
 
