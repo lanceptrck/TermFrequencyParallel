@@ -13,8 +13,8 @@ public class ThreadVersionAImpl implements ThreadVersionARemote {
 
 	@Override
 	public void run(List<List<String>> documents, String keyword, String fileName) {
-		// TODO Auto-generated method stub
-		TFIDFThreadVersionA threadVersionA = new TFIDFThreadVersionA(documents, keyword, fileName);
+		TFIDFThreadVersionA threadVersionA =
+				new TFIDFThreadVersionA(documents, keyword, fileName);
 		threadMonitor.add(threadVersionA);
 		threadVersionA.start();
 	}
@@ -27,7 +27,8 @@ public class ThreadVersionAImpl implements ThreadVersionARemote {
 	}
 
 	@Override
-	public List<String> getRemainingFileContents(String fileName) throws RemoteException {
+	public List<String> getRemainingFileContents(String fileName)
+			throws RemoteException {
 		lr = new LanguageReader(fileName);
 		return lr.getLanguage();
 	}

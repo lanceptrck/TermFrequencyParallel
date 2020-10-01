@@ -14,11 +14,12 @@ public class ClientWithThreadA {
 
 	public static void main(String[] args) {
 		try {
+
 			Registry registry;
+			registry = LocateRegistry.getRegistry("192.168.0.106", 9600);
+			ThreadVersionARemote remote = (ThreadVersionARemote)
+					registry.lookup("FactoryA");
 
-			registry = LocateRegistry.getRegistry(9600);
-
-			ThreadVersionARemote remote = (ThreadVersionARemote) registry.lookup("FactoryA");
 			List<TFIDFThreadVersionA> threadMonitor = new ArrayList<TFIDFThreadVersionA>();
 
 			List<String> documentNames = new ArrayList<String>();
@@ -44,7 +45,8 @@ public class ClientWithThreadA {
 			int counter = 0;
 			for (String keyword : keywords) {
 				if (counter % 2 == 0) {
-					TFIDFThreadVersionA t = new TFIDFThreadVersionA(documents, keyword, result_name_client);
+					TFIDFThreadVersionA t = new
+							TFIDFThreadVersionA(documents, keyword, result_name_client);
 					threadMonitor.add(t);
 					t.start();
 				} else {

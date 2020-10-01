@@ -23,7 +23,7 @@ public class ClientWithThreadB {
 
             List<String> documentNames = new ArrayList<String>();
             List<List<String>> documents = new ArrayList<List<String>>();
-            final int documentCount = 50;
+            final int documentCount = 25;
 
             DriverVersionA.clear(result_name_client);
             remote.clear(result_name_server);

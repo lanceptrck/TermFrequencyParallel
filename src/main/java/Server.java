@@ -9,13 +9,16 @@ public class Server {
 		try {
 
 			ITFIDFCalculator calcImpl = new TFIDFCalculator();
-			ITFIDFCalculator calc = (ITFIDFCalculator) UnicastRemoteObject.exportObject(calcImpl, 0);
+			ITFIDFCalculator calc = (ITFIDFCalculator)
+					UnicastRemoteObject.exportObject(calcImpl, 0);
 
 			ThreadVersionARemote factoryImpl = new ThreadVersionAImpl();
-			ThreadVersionARemote factory = (ThreadVersionARemote) UnicastRemoteObject.exportObject(factoryImpl, 1);
+			ThreadVersionARemote factory = (ThreadVersionARemote)
+					UnicastRemoteObject.exportObject(factoryImpl, 1);
 
 			ThreadVersionBRemote factoryBImpl = new ThreadVersionBImpl();
-			ThreadVersionBRemote factoryB = (ThreadVersionBRemote) UnicastRemoteObject.exportObject(factoryBImpl, 2);
+			ThreadVersionBRemote factoryB = (ThreadVersionBRemote)
+					UnicastRemoteObject.exportObject(factoryBImpl, 2);
 
 			Registry registry = LocateRegistry.createRegistry(9600);
 			registry.bind("ITFIDFCalculator", calc);
