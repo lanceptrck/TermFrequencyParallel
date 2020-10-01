@@ -11,8 +11,8 @@ public class ThreadVersionBImpl implements ThreadVersionBRemote {
     }
 
     @Override
-    public void run(List<List<String>> documents, List<String> document, String documentName) throws RemoteException {
-        TFIDFThreadVersionB threadVersionB = new TFIDFThreadVersionB(documents, document, documentName);
+    public void run(List<List<String>> documents, List<String> document, String documentName, String fileName) throws RemoteException {
+        TFIDFThreadVersionB threadVersionB = new TFIDFThreadVersionB(documents, document, documentName, fileName);
         threadMonitor.add(threadVersionB);
         threadVersionB.start();
     }

@@ -30,7 +30,7 @@ public class DriverVersionB {
 		ExecutorService es = Executors.newFixedThreadPool(documents.size());
 
 		for (int i = 0; i < documentCount; i++) {
-			TFIDFThreadVersionB t = new TFIDFThreadVersionB(documents, documents.get(i), documentNames.get(i));
+			TFIDFThreadVersionB t = new TFIDFThreadVersionB(documents, documents.get(i), documentNames.get(i), result_name);
 			es.submit(t);
 			//t.start();
 			threadMonitorNew.add(t);

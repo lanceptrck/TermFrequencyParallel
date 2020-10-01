@@ -15,14 +15,14 @@ public class ClientWithThreadB {
         try {
             Registry registry;
 
-            registry = LocateRegistry.getRegistry("192.168.109", 9600);
+            registry = LocateRegistry.getRegistry("192.168.106", 9600);
 
             ThreadVersionBRemote remote = (ThreadVersionBRemote) registry.lookup("FactoryB");
             List<TFIDFThreadVersionB> threadMonitor = new ArrayList<TFIDFThreadVersionB>();
 
             List<String> documentNames = new ArrayList<String>();
             List<List<String>> documents = new ArrayList<List<String>>();
-            final int documentCount = 50;
+            final int documentCount = 25;
 
             DriverVersionA.clear(result_name);
 
@@ -42,11 +42,11 @@ public class ClientWithThreadB {
             int counter = 0;
             for (int i = 0; i < documentCount; i++) {
                 if (counter % 2 == 0) {
-                    TFIDFThreadVersionB t = new TFIDFThreadVersionB(documents, documents.get(i), documentNames.get(i));
+                    TFIDFThreadVersionB t = new TFIDFThreadVersionB(documents, documents.get(i), documentNames.get(i), result_name);
                     threadMonitor.add(t);
                     t.start();
                 } else {
-                    remote.run(documents, documents.get(i), documentNames.get(i));
+                    remote.run(documents, documents.get(i), documentNames.get(i), result_name);
                 }
                 counter++;
             }
